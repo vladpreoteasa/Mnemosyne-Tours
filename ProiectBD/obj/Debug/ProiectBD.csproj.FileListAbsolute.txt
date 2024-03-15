@@ -1,0 +1,12 @@
+D:\teme proiecte pb\info\bd\ProiectBD\bin\Debug\ProiectBD.exe.config
+D:\teme proiecte pb\info\bd\ProiectBD\bin\Debug\ProiectBD.exe
+D:\teme proiecte pb\info\bd\ProiectBD\bin\Debug\ProiectBD.pdb
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.csproj.AssemblyReference.cache
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.Properties.Resources.resources
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.csproj.GenerateResource.cache
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.csproj.CoreCompileInputs.cache
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.exe
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.pdb
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.SignUp.resources
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.EditItem.resources
+D:\teme proiecte pb\info\bd\ProiectBD\obj\Debug\ProiectBD.Login.resources
